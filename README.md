@@ -1,5 +1,6 @@
 # 🎙️ Podcast com IAs Generativas | Desafio DIO 🚀
 
+![Image](https://github.com/user-attachments/assets/788b9cda-2fe9-41ad-ae56-28517805fd58)
 
 > Um projeto criativo e inovador que une inteligência artificial, edição de vídeo e criatividade para criar um podcast completo e envolvente sobre **o poder dos sonhos**.
 
